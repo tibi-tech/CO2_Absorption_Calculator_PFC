@@ -1,0 +1,29 @@
+
+        ----------------------- ANÁLISE DO NPP ----------------------- 
+
+        Relatório de Análise do NPP - Monsanto, Lisboa, Portugal - 06 / 2024
+        
+        ---------- PARÂMETROS ----------
+        População: 547,773 habitantes
+        Emissões per capita: 0.8917 t CO₂/pessoa/mês
+        Fator de conversão C→CO₂: 3.6667
+       
+        ---------- EMISSÕES TOTAIS ----------
+        Carbono (C): 133212.20 tC/mês
+        Dióxido de Carbono (CO₂): 488449.18 tCO2/mês
+
+        
+        ---------- ABSORÇÃO PELA VEGETAÇÃO ----------
+        Carbono (C): 2664.01 tC/mês
+        Dióxido de Carbono (CO₂): 9768.05 tCO2/mês
+
+        ---------- BALANÇO ----------
+        Percentual de carbono absorvido: 2.00%
+        Percentual de CO₂ absorvido: 2.00%
+       
+        ---------- POR ÁREA ----------
+        Área média por pixel: 0.01 ha
+        NPP médio (C): 2664.01 kg C/ha/mês
+        NPP médio (CO₂):9768.12 kg CO₂/ha/mês
+        
+        ----------------------- FIM DO RELATÓRIO -----------------------
