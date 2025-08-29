@@ -1,0 +1,29 @@
+
+        ----------------------- ANÁLISE DO NPP ----------------------- 
+
+        Relatório de Análise do NPP - Oeiras, Lisboa, Portugal - 05 / 2024
+        
+        ---------- PARÂMETROS ----------
+        População: 172,120 habitantes
+        Emissões per capita: 0.8917 t CO₂/pessoa/mês
+        Fator de conversão C→CO₂: 3.6667
+       
+        ---------- EMISSÕES TOTAIS ----------
+        Carbono (C): 41858.02 tC/mês
+        Dióxido de Carbono (CO₂): 153479.40 tCO2/mês
+
+        
+        ---------- ABSORÇÃO PELA VEGETAÇÃO ----------
+        Carbono (C): 6702.87 tC/mês
+        Dióxido de Carbono (CO₂): 24577.20 tCO2/mês
+
+        ---------- BALANÇO ----------
+        Percentual de carbono absorvido: 16.01%
+        Percentual de CO₂ absorvido: 16.01%
+       
+        ---------- POR ÁREA ----------
+        Área média por pixel: 0.01 ha
+        NPP médio (C): 2550.92 kg C/ha/mês
+        NPP médio (CO₂): 9353.47 kg CO₂/ha/mês
+        
+        ----------------------- FIM DO RELATÓRIO -----------------------
